@@ -1,1 +1,194 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T16:43:30.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="0E3761D8iUA4cJRxwAU6" type="github"><diagram name="Página-1" id="7UgYZLJlpo_Ln33i3toB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-28T17:04:09.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pZD5aiiZFlNI29WjK5l5" version="20.8.23" type="github">
+  <diagram name="Página-1" id="7UgYZLJlpo_Ln33i3toB">
+    <mxGraphModel dx="2632" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aAUVF-efu6J_wPArT0rD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-1" target="aAUVF-efu6J_wPArT0rD-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-3" target="aAUVF-efu6J_wPArT0rD-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-3" value="Bienvenido a nuestro sistema de comparacion de numero" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="291" y="120" width="246" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-5" target="aAUVF-efu6J_wPArT0rD-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-5" value="Ingresa el primer numero" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="336" y="280" width="156" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-7" target="aAUVF-efu6J_wPArT0rD-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-7" value="num1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="364" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-9" target="aAUVF-efu6J_wPArT0rD-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-9" value="Ingresa el segundo numero" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="336" y="480" width="154" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-11" target="aAUVF-efu6J_wPArT0rD-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-11" value="num2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="363" y="590" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-13" target="aAUVF-efu6J_wPArT0rD-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413" y="780" />
+              <mxPoint x="414" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-13" value="Ingresa el tercer numero" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="363" y="690" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-15" target="aAUVF-efu6J_wPArT0rD-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413.79999999999995" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-15" value="num3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="364" y="780" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-17" target="aAUVF-efu6J_wPArT0rD-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="930.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-22" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aAUVF-efu6J_wPArT0rD-18">
+          <mxGeometry x="-0.0891" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-17" target="aAUVF-efu6J_wPArT0rD-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="930.2" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-23" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aAUVF-efu6J_wPArT0rD-20">
+          <mxGeometry x="0.2526" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-17" value="num1 = num2 &amp;amp;&amp;amp; num2 = num3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="302" y="860" width="224" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-19" value="Los 3 numero son iguales" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="890" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-24" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-21" target="aAUVF-efu6J_wPArT0rD-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="930.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-21" target="aAUVF-efu6J_wPArT0rD-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700.1428571428569" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-37" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aAUVF-efu6J_wPArT0rD-33">
+          <mxGeometry x="-0.1586" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-21" value="num1 = num2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="850" y="990" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-25" target="aAUVF-efu6J_wPArT0rD-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="930.1428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-35" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aAUVF-efu6J_wPArT0rD-26">
+          <mxGeometry x="-0.152" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-25" target="aAUVF-efu6J_wPArT0rD-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="877" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-36" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aAUVF-efu6J_wPArT0rD-29">
+          <mxGeometry x="-0.2441" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-25" value="num1 &amp;gt; num3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="990" width="100" height="99.8" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-28" value="Hay dos numero iguales y el numero mayor es:, num1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="989.94" width="200" height="99.86" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-30" value="Hay dos numero iguales y el numero mayor es:, num3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="988.5" y="1160" width="203" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1260.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-34" target="aAUVF-efu6J_wPArT0rD-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="1320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-34" value="num1 = num" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="580.0028571428569" y="1210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-41" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-40" target="aAUVF-efu6J_wPArT0rD-42">
+          <mxGeometry x="0.0004" relative="1" as="geometry">
+            <mxPoint x="950" y="1350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="1420" />
+              <mxPoint x="820" y="1470" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-44" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-40" target="aAUVF-efu6J_wPArT0rD-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-40" value="num1&amp;gt;num2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-42" value="Hay dos números iguales y el numero mayor es:, num1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1430" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aAUVF-efu6J_wPArT0rD-45" value="Hay dos números iguales y el numero mayor es:, num2&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="1520" width="235" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
