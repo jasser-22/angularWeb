@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T15:23:52.233Z" agent="5.0 (Windows)" etag="XULbyWZaiF92ibOFBxPX" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T16:39:06.564Z" agent="5.0 (Windows)" etag="aXu6Bh9bAgCR0IrlyqiH" version="20.8.23" type="github">
   <diagram name="Página-1" id="7UgYZLJlpo_Ln33i3toB">
-    <mxGraphModel dx="5435" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4338" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,6 +102,9 @@
         <mxCell id="Q3L05QaCgbH6w_rTIxdM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.508;exitY=0.921;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-19" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="715" y="1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="715" y="964" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aAUVF-efu6J_wPArT0rD-19" value="Los 3 numero son iguales" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
@@ -148,7 +151,7 @@
         <mxCell id="aAUVF-efu6J_wPArT0rD-25" value="num1 &amp;gt; num3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-277.5" y="1040.1999999999998" width="100" height="99.8" as="geometry" />
         </mxCell>
-        <mxCell id="Q3L05QaCgbH6w_rTIxdM-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-28" target="Q3L05QaCgbH6w_rTIxdM-60">
+        <mxCell id="Q3L05QaCgbH6w_rTIxdM-69" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;rounded=1;dashed=1;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-28" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="190" y="1090" />
@@ -160,7 +163,7 @@
         <mxCell id="aAUVF-efu6J_wPArT0rD-28" value="Hay dos numero iguales y el numero mayor es:, num1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
           <mxGeometry x="-41.5" y="1040" width="200" height="99.86" as="geometry" />
         </mxCell>
-        <mxCell id="Q3L05QaCgbH6w_rTIxdM-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.015;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-30" target="Q3L05QaCgbH6w_rTIxdM-60">
+        <mxCell id="Q3L05QaCgbH6w_rTIxdM-70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.015;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#CC0066;dashed=1;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-30" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint y="1275" />
@@ -212,7 +215,7 @@
         <mxCell id="aAUVF-efu6J_wPArT0rD-40" value="num1&amp;gt;num2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-637.5" y="1340" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Q3L05QaCgbH6w_rTIxdM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.008;exitY=0.183;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-42" target="Q3L05QaCgbH6w_rTIxdM-60">
+        <mxCell id="Q3L05QaCgbH6w_rTIxdM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.008;exitY=0.183;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-42" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="1140" as="targetPoint" />
             <Array as="points">
@@ -226,7 +229,7 @@
         <mxCell id="aAUVF-efu6J_wPArT0rD-42" value="Hay dos números iguales y el numero mayor es:, num1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
           <mxGeometry x="-407.5" y="1400" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Q3L05QaCgbH6w_rTIxdM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-45" target="Q3L05QaCgbH6w_rTIxdM-60">
+        <mxCell id="Q3L05QaCgbH6w_rTIxdM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="aAUVF-efu6J_wPArT0rD-45" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="1350" as="targetPoint" />
             <Array as="points">
@@ -287,7 +290,7 @@
         <mxCell id="Q3L05QaCgbH6w_rTIxdM-4" value="num2 &amp;gt; num1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1127.5" y="1420" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Q3L05QaCgbH6w_rTIxdM-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-6" target="Q3L05QaCgbH6w_rTIxdM-60">
+        <mxCell id="Q3L05QaCgbH6w_rTIxdM-74" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-6" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="1410" as="targetPoint" />
             <Array as="points">
@@ -303,7 +306,7 @@
         <mxCell id="Q3L05QaCgbH6w_rTIxdM-6" value="Hay 2 numeros iguales y el numero mayor es:, num2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="-961.5" y="1525" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Q3L05QaCgbH6w_rTIxdM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.016;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-11" target="Q3L05QaCgbH6w_rTIxdM-60">
+        <mxCell id="Q3L05QaCgbH6w_rTIxdM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.016;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-11" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="1080" as="targetPoint" />
             <Array as="points">
@@ -359,7 +362,7 @@
         <mxCell id="Q3L05QaCgbH6w_rTIxdM-16" value="num1 &amp;gt;num3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="1479.67" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Q3L05QaCgbH6w_rTIxdM-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.02;entryY=0.693;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-18" target="Q3L05QaCgbH6w_rTIxdM-60">
+        <mxCell id="Q3L05QaCgbH6w_rTIxdM-76" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.02;entryY=0.693;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-18" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="1130" as="targetPoint" />
             <Array as="points">
@@ -373,7 +376,7 @@
         <mxCell id="Q3L05QaCgbH6w_rTIxdM-18" value="Los 3 números son diferentes y el numero mayor es:, num3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="-1615" y="1640" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Q3L05QaCgbH6w_rTIxdM-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.837;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-25" target="Q3L05QaCgbH6w_rTIxdM-60">
+        <mxCell id="Q3L05QaCgbH6w_rTIxdM-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.837;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-25" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="1120" as="targetPoint" />
             <Array as="points">
@@ -411,7 +414,7 @@
         <mxCell id="Q3L05QaCgbH6w_rTIxdM-36" value="num2&amp;gt; num3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2120" y="1439.9977777777779" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Q3L05QaCgbH6w_rTIxdM-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.052;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-43" target="Q3L05QaCgbH6w_rTIxdM-60">
+        <mxCell id="Q3L05QaCgbH6w_rTIxdM-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.052;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-43" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="1200" as="targetPoint" />
             <Array as="points">
@@ -440,7 +443,7 @@
         <mxCell id="Q3L05QaCgbH6w_rTIxdM-46" value="num3 &amp;gt; num1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2340" y="1559.9971428571432" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Q3L05QaCgbH6w_rTIxdM-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.15;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-52" target="Q3L05QaCgbH6w_rTIxdM-60">
+        <mxCell id="Q3L05QaCgbH6w_rTIxdM-79" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.15;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-52" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="1100" as="targetPoint" />
             <Array as="points">
@@ -453,7 +456,7 @@
         <mxCell id="Q3L05QaCgbH6w_rTIxdM-52" value="Los 3 numeros son diferentes y el numero mayor es:, num3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="-2410" y="1920" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Q3L05QaCgbH6w_rTIxdM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.313;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-54" target="Q3L05QaCgbH6w_rTIxdM-60">
+        <mxCell id="Q3L05QaCgbH6w_rTIxdM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.313;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Q3L05QaCgbH6w_rTIxdM-54" target="Q3L05QaCgbH6w_rTIxdM-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="1170" as="targetPoint" />
             <Array as="points">
